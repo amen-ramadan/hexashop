@@ -1,0 +1,13 @@
+.logout {
+  background-color: var(--color-primary);
+  padding: 10px;
+  border: none;
+  border-radius: var(--size-border-radius);
+  color: #111;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.logout:hover {
+  cursor: pointer;
+}
